@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tahoma';
+    src: local('Tahoma Regular'), local('Tahoma-Regular'),
+        url('Tahoma.woff2') format('woff2'),
+        url('Tahoma.woff') format('woff'),
+        url('Tahoma.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
